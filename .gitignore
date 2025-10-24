@@ -1,0 +1,42 @@
+# Python caches and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE / editor settings
+.vscode/
+.idea/
+*.code-workspace
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Logs and local databases
+*.log
+*.sqlite3
+
+# Jupyter and pytest caches
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Local environment variables
+*.env
+.env.*
+
+# Generated map artifacts
+marked_map.html
+marked_map.png
+mymap.html
+
+# Temporary or local scratch files
+*.bak
+*.tmp
+*.swp
+*~
+~$*
